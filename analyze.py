@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import time
 import os
 
-# Load environment variables from the specified .env file
+# Load environment variables from .env file
 load_dotenv("pracAI.env")
 
 # Retrieve the subscription key and endpoint from environment variables
